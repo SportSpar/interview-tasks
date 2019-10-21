@@ -36,5 +36,5 @@ Planned time: up to 4 hours during the interview. Up to 3 hours as a homework.
 
 ### Additional requirements, questions
 
- - Please save your work at 2 hours mark and present it separately.
+ - Please save your work at 3 hours mark and present it separately.
  - What would you do differenly if you had more time?
