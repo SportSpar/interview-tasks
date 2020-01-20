@@ -9,14 +9,3 @@ For a transplanetary Trading App you need to create a date converter for planets
    - 2019-08-13 addMonths(2) -> 2019-10-13
    - 2019-08-13 + 0002-02-01 -> 2021-10-14
 It should work for all planets.
-
-3. Create tests for these classes.
-
-### Time
-
-Planned time: up to 3 hours during the interview. Up to 2 hours as a homework.
-
-### Additional requirements, questions
-
- - Please save your work at 2 hours mark and present it separately.
- - What would you do differenly if you had more time?
