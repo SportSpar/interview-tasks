@@ -6,7 +6,7 @@ You can freely choose one or several of the following tasks:
  - [Planet Dates](planet-dates.md)
  - [Mini Database](mini-database.md)
 
-The main thing that will be evaluated is the quality of the code. The result can be sent to per E-Mail in a zip archive or uploaded to any git hosting.
+Everything that is not explicitly stated in the task, you can define as you like. The main thing that will be evaluated is the quality of the code. The result can be sent to per E-Mail in a zip archive or uploaded to any git hosting.
 
 If we like how you solved the task, we will invite you to the interview in our office to meet you personally.
 
